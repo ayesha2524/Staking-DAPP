@@ -93,6 +93,3 @@ contract Staking is ReentrancyGuard {
 
 }
 
-// Stake Token 0x8D7F8bF406E84FC3C9693336af13A42118FEaDAc
-// Reward Token 0xfA81C553935Dce326e725Cd77D2D1aadc5Eb1F5d
-// Staking 0xB4059D8f58f369B2fdE1f37437E5b8E43D1A4B1F
